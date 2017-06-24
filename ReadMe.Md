@@ -1,4 +1,4 @@
-### about
+## about
 
 个人习惯使用mindmap来记录和梳理知识点或者一些工具脚本。而且发现每次到一个新的环境，总是需要一个个得去从github上下载这些脚本。
 
@@ -8,7 +8,7 @@
 
 
 
-### requirement
+## requirement
 
 1. 安装xmind-sdk-python
 
@@ -22,19 +22,19 @@
 
 
 
-### usage
+## usage
 
 `python load.py`
 
-### xmind
+## xmind
 
 xmind样式如下，会根据图中的节点关系创建对应的目录层级关系。
 
-![xmind](.\pic\xmind.png)
+![xmind](\pic\xmind.png)
 
 
 
-### 运行效果
+## 运行效果
 
 目录层级和xmind中的结构对应。
 
