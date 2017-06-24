@@ -30,11 +30,9 @@
 
 xmind样式如下，会根据图中的节点关系创建对应的目录层级关系。
 
-<<<<<<< HEAD
 ![xmind](\pic\xmind.png)
 =======
 ![xmind](https://github.com/bit4woo/LoadFromXmind/blob/master/pic/xmind.png)
->>>>>>> 6a528886f4ffca5e09becf4419d706a5a7f8425b
 
 
 
